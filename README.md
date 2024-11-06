@@ -26,3 +26,10 @@ program 4 output
 ![Screenshot 2024-11-06 094944](https://github.com/user-attachments/assets/168d7e38-8272-4754-a300-7215be5d482c)
 ![Screenshot 2024-11-06 094847](https://github.com/user-attachments/assets/b8cf5617-7a49-4dcb-a0f0-59a75eb9e06c)
 ![Screenshot 2024-11-06 094757](https://github.com/user-attachments/assets/491f2ece-461c-41f4-b5a9-a770854aa71d)
+
+program 5 output
+
+![Screenshot 2024-11-06 095217](https://github.com/user-attachments/assets/9e64caa1-2c8a-4021-8697-74a6e5060962)
+![Screenshot 2024-11-06 095147](https://github.com/user-attachments/assets/e3eadac3-e2fa-41c0-9e86-866d5b7d3e92)
+![Screenshot 2024-11-06 095119](https://github.com/user-attachments/assets/bffc7cc6-79ab-4e79-be3f-d9ee3f63cc4f)
+![Screenshot 2024-11-06 095048](https://github.com/user-attachments/assets/bba8db32-6d93-4cf7-9870-12b4a7e0d1ac)
