@@ -19,3 +19,10 @@ program 2 inhput and output
 program 3 output
 
 ![Screenshot 2024-11-06 094522](https://github.com/user-attachments/assets/9032ed9f-c7cf-47c6-b1a4-8eb50f327c20)
+
+
+program 4 output
+
+![Screenshot 2024-11-06 094944](https://github.com/user-attachments/assets/168d7e38-8272-4754-a300-7215be5d482c)
+![Screenshot 2024-11-06 094847](https://github.com/user-attachments/assets/b8cf5617-7a49-4dcb-a0f0-59a75eb9e06c)
+![Screenshot 2024-11-06 094757](https://github.com/user-attachments/assets/491f2ece-461c-41f4-b5a9-a770854aa71d)
