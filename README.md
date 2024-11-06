@@ -33,3 +33,17 @@ program 5 output
 ![Screenshot 2024-11-06 095147](https://github.com/user-attachments/assets/e3eadac3-e2fa-41c0-9e86-866d5b7d3e92)
 ![Screenshot 2024-11-06 095119](https://github.com/user-attachments/assets/bffc7cc6-79ab-4e79-be3f-d9ee3f63cc4f)
 ![Screenshot 2024-11-06 095048](https://github.com/user-attachments/assets/bba8db32-6d93-4cf7-9870-12b4a7e0d1ac)
+
+program 6 output
+
+![Screenshot 2024-11-06 095502](https://github.com/user-attachments/assets/8f8c24b7-3384-4d54-838c-a677bef9a55e)
+
+
+program 7 output
+
+![Screenshot 2024-11-06 095907](https://github.com/user-attachments/assets/13a0894f-5dfd-4f6b-a126-76bd02f4c405)
+
+program 8 output
+
+![Screenshot 2024-11-06 100049](https://github.com/user-attachments/assets/320b86dd-ad7f-4642-bba6-dd0f2539fa97)
+
